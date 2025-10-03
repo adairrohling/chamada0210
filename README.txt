@@ -13,3 +13,4 @@ Felix Filho
 Ana Carolina de Morais Benedetti
 Domires
 Gustavo da Silva
+Henzzo Frank da Silva Zamadei
