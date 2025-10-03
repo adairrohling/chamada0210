@@ -9,3 +9,4 @@ Alexia Nielsen
 Thiago Gusmão
 Alexandre Luiz Rosler
 Jose Guilherme Sutile
+João Vitor Migon Krug
