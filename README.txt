@@ -7,3 +7,4 @@ Camile
 Gabriela Kuhnen 
 Alexia Nielsen
 Thiago Gusmão
+Domires Guimarães
