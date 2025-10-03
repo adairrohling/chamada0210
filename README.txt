@@ -12,3 +12,4 @@ Jose Guilherme Sutile
 Felix Filho
 Ana Carolina de Morais Benedetti
 Domires
+Wesley Felipe Passii de Oliveira
